@@ -7,5 +7,6 @@ public class Table {
         for (int i = 1; i < args.length; i++) {
             System.out.println(5*i);            
         }
+        System.out.println("Click Button");
     }
 }
